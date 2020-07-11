@@ -8,7 +8,6 @@ namespace CalculaPrecoPorTipoProduto.Entities
     {
         public double CustomFee { get; set; }
         private double _vlTotal;
-        private double _vlPrice;
         private string _dsTag;
 
         //CONSTRUTORES
